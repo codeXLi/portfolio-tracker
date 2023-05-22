@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a stock portfolio application developed in Python as part of a programming course at the University of St. Gallen. The application allows users to create a prortoflio, add and sell stocks, see a current overview of their portfolio and its performance, and access necessary information about individual stocks. 
+This project is a stock portfolio application developed in Python as part of a programming course at the University of St. Gallen. The application allows users to create a portfolio, add and sell stocks, see a current overview of their portfolio and its performance, and access necessary information about individual stocks. 
 
 
 ## Dependencies
@@ -17,8 +17,4 @@ The project relies on the following Python packages:
 - urllib.error.HTTPError: An error class related to handling HTTP errors.
 - IPython.display.Markdown: A class used to display formatted Markdown text in a Jupyter notebook or IPython environment.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
